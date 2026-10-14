@@ -47,7 +47,3 @@ Proje, makine üreticisinin talimatlarının ve iş güvenliği kurallarının y
 ## 📌 Geliştirme Durumu
 
 Proje geliştirilmeye açıktır. İlerleyen sürümlerde yeni hesaplama araçları, gelişmiş teknik çizimler ve ek atölye yardımcıları eklenebilir.
-
-## 📄 Lisans
-
-Lisans henüz belirlenmemiştir. Projeyi açık kaynak olarak yayımlamayı planlıyorsan uygun bir lisans ekleyebilirsin.
